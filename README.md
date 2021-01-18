@@ -3,3 +3,5 @@
 Personnalisable pomodoro app, juste focus on your work ;)
 
 https://vimharoon.github.io/
+
+TODO: Finish settings modal
